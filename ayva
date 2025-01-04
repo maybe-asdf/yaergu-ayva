@@ -1,0 +1,3 @@
+#!/bin/bash
+source $HOME/.ayva/venv/bin/activate
+python3 $HOME/.ayva/main.py
