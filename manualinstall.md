@@ -7,5 +7,5 @@
 of course replacing YOURUSERNAME with your actual username
 6. Run this command while in the yaergu-ayva folder :
 ```sudo mv ayva /usr/bin/```
-7. Rename that folder to '.ayva' without the quotations
+7. Rename the yaergu-ayva folder to '.ayva' without the quotations
 8. Tada!! It should work without any problems now.
