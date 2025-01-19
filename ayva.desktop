@@ -2,7 +2,7 @@
 Categories=Utility;Application;
 Exec=ayva
 GenericName=Your personal assistant.
-Icon=/usr/share/pixmaps/ayva.png
+Icon=ayva
 Name=Ayva
 Type=Application
 StartupNotify=true
